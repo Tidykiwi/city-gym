@@ -1,25 +1,27 @@
 # city-gym-2
 Database application with GUI for managing gym memberships.<br>
-Completetd as part of studying 'BIT502 - Fundamentals of Programming' at The Open Polytechnic of New Zealand (BIT = Bachelor of Information Technology)
+Completetd as part of studying 'BIT502 - Fundamentals of Programming' at The Open Polytechnic of New Zealand (BIT = Bachelor of Information Technology)<br><br>
 
-You will then create the following screens:
-• The main menu screen: The user should be able to navigate to the individual 
-screens, to easily return to it, and to be able to exit the application. 
-• The membership form screen: You will have already completed the 
-membership form from Assignment 2. However, you will now need to make 
-sure that when the new member is saved, the information is stored in the
-database rather than written to a file.
-© The Open Polytechnic of Ne w Zealand Ltd 3
-• Search members screen: To meet the requirements of being able to search 
-for members (see Appendix A), you will need to add a data grid to this form.
-• Fitness class booking screen: You will need to build this form into your 
-Visual Studio solution. However, the only code you will need to add to this 
-form is the code to close the form and return the user to the main menu 
-screen. The form is a prototype only.
-Then, create the database you designed for Task 1, and configure the data source to 
-display tables.
-You will also need to populate the database with the sample data (see Appendix B).
-Remember, your design should capture all of the client’s requirements that are 
-outlined in the case study information. For the implementation of this task, you will be 
-assessed on your ability to meet the client’s requirements, the functionality of overall 
-application, and the readability of your code.
+My task for this project was to build a multi-screen GUI database application to manage gym registration and membership.<br>
+
+The brief asked for the folowing screens:<br>
+• The main menu screen: The user should be able to navigate to the individual screens, to easily return to it, and to be able to exit the application.
+• The membership form screen: This membership form calculates the membership costs and stores the new membership details to a database.
+• Form to include customer details, membership details, payment details and extras.
+• Form to include a ‘calculate’ button, that applies all fees and discounts, based on the user’s selection of options.
+• Membership costs are displayed to the user on calculation. This includes:
+o membership cost
+o total of all extras selected
+o total discount applied
+o net membership cost
+o regular payment amount.
+• The submit button should store new member information in a database. This captures all details from the membership form.
+
+• Search members screen: Uses a data grid to allow searching for members.<br><br>
+
+• Fitness class booking screen: This form is a prototype only. It only features the functionality to close the form and return the user to the main menu 
+screen.<br><br>
+
+• Application includes suitable error control by informing the user if there areincomplete fields or incorrect user input.
+
+
