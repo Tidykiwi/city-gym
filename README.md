@@ -5,8 +5,8 @@ Completetd as part of studying 'BIT502 - Fundamentals of Programming' at The Ope
 My task for this project was to build a multi-screen GUI database application to manage gym registration and membership.<br>
 
 The brief asked for the folowing screens:<br>
-• The main menu screen: The user should be able to navigate to the individual screens, to easily return to it, and to be able to exit the application.<br>
-• The membership form screen: This membership form calculates the membership costs and stores the new membership details to a database.<br>
+• The main menu screen: The user should be able to navigate to the individual screens, to easily return to it, and to be able to exit the application.<br><br>
+• The membership form screen: This membership form calculates the membership costs and stores the new membership details to a database.
 - Form to include a ‘calculate’ button, that applies all fees and discounts, based on the user’s selection of options.
 - Membership costs are displayed to the user on calculation. This includes:<br>
 o membership cost<br>
